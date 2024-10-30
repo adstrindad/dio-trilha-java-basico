@@ -20,7 +20,7 @@ public class TiposVariaveis {
 
         char caractereUnica = 'V'; 
         // variavel usada para armazenar uma unica caractere.
-        System.out.println(caractereUnica);
+        System.out.println(caractereUnica); 
 
         final int anoNascimento = 1999; 
         // usada para armazenar valores que não se alteram.
